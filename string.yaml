@@ -1,0 +1,8 @@
+multilinestring: |
+  this ia a line
+  next line
+  another line
+
+singlrline: >
+  this a single line
+  this should be all in a single line
