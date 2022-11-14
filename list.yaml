@@ -1,0 +1,10 @@
+microservice:
+  - app: user
+    port: 8080
+
+# list of objects
+microservices:
+  - app: user
+    port: 8080
+  - apps: users
+    port: 5000
