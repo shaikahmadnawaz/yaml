@@ -3,6 +3,6 @@ multilinestring: |
   next line
   another line
 
-singlrline: >
+singleline: >
   this a single line
   this should be all in a single line
