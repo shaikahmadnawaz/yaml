@@ -8,3 +8,7 @@ YAML is a data serialization language.
 
 **What is a serialization language?**\
 Standard format to transfer data.
+
+**YAML - YAML Ain't Markup Language**
+
+**File extension:** `.yaml` / `.yml`

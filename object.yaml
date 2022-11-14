@@ -1,0 +1,4 @@
+# object can be created by intending key-value
+microservice:
+  app: user
+  port: 8080
