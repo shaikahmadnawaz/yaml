@@ -3,8 +3,8 @@
 - Configuration files all written in YAML.
 - Widely used format for different DevOps tools and applications.
 
-**What is YAML?**
+**What is YAML?**\
 YAML is a data serialization language.
 
-**What is a serialization language?**
+**What is a serialization language?**\
 Standard format to transfer data.
